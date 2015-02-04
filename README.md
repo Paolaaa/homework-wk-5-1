@@ -1,5 +1,6 @@
 # homework-wk-5-1
 homework 2/3/15
+<<<<<<< HEAD
 #processing DNA in a file
 file = open("dnastrand.txt")
 for dna in file:
@@ -81,4 +82,6 @@ for line in exon_locations:
     output = open("coding_sequence.txt", "w")
     output.write(coding_sequence)
     output.close()
+=======
+>>>>>>> origin
 
